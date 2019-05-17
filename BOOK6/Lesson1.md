@@ -1,4 +1,4 @@
-<center><strong>Study the definitions of the words. Then do the exercises that follow.</strong></center>
+**Study the definitions of the words. Then do the exercises that follow.**
 
 **affection**
 
@@ -46,7 +46,7 @@
 >
 > The necklace has a **clasp** in the shape of a snake biting its tail.
 
-**Conspicuous**
+**conspicuous**
 
 > *adj.* Easily or plainly seen.
 >
@@ -119,6 +119,98 @@
 > ---
 >
 > *Tell your partner what you might like to exhibit on a bulletin board or in a trophy case.*
+
+**ferry**
+
+> *n.* A boat that carries people and goods back and forth across a stretch of water.
+>
+> The **ferry** will stop running when the new bridge opens.
+>
+> *v.* To move people or goods by boat across a stretch of water.
+>
+> The boat owner who **ferried** us across the lake would not accept any payment.
+
+**immigrant**
+
+> *n.* A person who comes into a country to live there.
+>
+> Many Polish immigrants settled in Chicago.
+>
+> ---
+>
+> *Discuss with your partner how immigrants make the United States special.*
+
+**lofty**
+
+> *adj.* 1. Very tall or high.
+>
+> **Lofty** elm trees provided welcome shade along the streets.
+>
+> 2. Noble in feeling or ideals.
+>
+> Ending world hunger in our lifetime is a lofty goal.
+>
+> 3. Showing a too-proud or superior attitude.
+>
+> The **lofty** way the diner spoke to the waiter made me feel uncomfortable.
+>
+> ---
+>
+> *In a lofty way, describe for your partner how great your singing is.*
+
+**pedestal**
+
+> *n.* A base or support on which something stands.
+>
+> At the museum, I backed up to get a better view of the painting and almost knocked the sculpture off its **pedestal.**
+>
+> **persecution** *n.* The state or condition of being persecuted.
+>
+> Hitler's **persecution** of the Jewish people led to the murder of millions of innocent people.
+
+**poverty**
+
+>*n.* The state of being poor.
+>
+>The food stamp program was started to help feed families living in **poverty.**
+
+**unveil**
+
+> *v.* 1. To remove a covering from.
+>
+> The American Red Cross held a ceremony to **unveil** the portrait of its founder, Clara Barton.
+>
+> 2. To make known or reveal for the first time.
+>
+> The police chief will **unveil** a plan to reduce street crime at today's meeting.
+
+**Choose two phrases to form a sentence that correctly uses a word from Word List 1. Then write the sentence.**
+
+1. > (a) let that person to go free.
+   >
+   > (b) To clasp someone is to
+   >
+   > (c) treat that person badly.
+   >
+   > (d) To persecute someone is to
+
+2. >(a) If something is lofty,
+   >
+   >(b) If something has appeal,
+   >
+   >(c) it is hidden from view.
+   >
+   >(d) it has the power to attract.
+
+3. >(a) To exhibit something is to
+   >
+   >(b) To unveil something is to
+   >
+   >(c) understand it fully.
+   >
+   >(d) reveal it for the first time.
+
+4. 
 
 
 
