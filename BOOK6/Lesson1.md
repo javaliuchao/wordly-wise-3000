@@ -78,11 +78,29 @@
 >
 > *Share with your partner a cause or a charity you would like to be a contributor to, and discuss how you could contribute.*
 
+**declare**
 
+> *v.* To make known; to state openly.
+>
+> "I will not share a room with my sister anymore," she **declared.**
+>
+> **declaration**  *n.* A public statement.
+>
+> The **declaration** read by the mayor stated that November was bicycle safety month.
+>
+> ---
+>
+> *Declare to your partner your feelings about your favorite movie.*
 
+**eloquent**
 
-
-
+> *adj.* Skilled at speaking or writing; having the power to move people.
+>
+> Anne Frank's **eloquent** diary often moves readers to tears.
+>
+> **eloquence** *n.* Skill at speaking or writing; the power to move people.
+>
+> Dr.Martin Luther King Jr.'s **eloquence** made him a strong leader of the 1960s Civil Rights Movement.
 
 
 
