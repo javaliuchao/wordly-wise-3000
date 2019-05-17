@@ -1,5 +1,7 @@
 # Lesson 1
 
+## Word List
+
 **Study the definitions of the words. Then do the exercises that follow.**
 
 **affection**
@@ -186,6 +188,8 @@
 >
 > The police chief will **unveil** a plan to reduce street crime at today's meeting.
 
+## 1A  Finding Meanings
+
 **Choose two phrases to form a sentence that correctly uses a word from Word List 1. Then write the sentence.**
 
 1. > (a) let that person to go free.
@@ -212,7 +216,78 @@
    >
    >(d) reveal it for the first time.
 
-4. 
+4. > (a) Poverty is
+   >
+   > (b) Eloquence is
+   >
+   > (c) a condition of poor health.
+   >
+   > (d) the state of being poor.
+
+5. > (a) To speak in an affectionate manner
+   >
+   > (b) To speak in a lofty manner
+   >
+   > (c) is to show a too-proud attitude.
+   >
+   > (d) is to show extreme shyness.
+
+6. > (a) a lever operated by the foot.
+   >
+   > (b) An exhibit is
+   >
+   > (c) a public showing.
+   >
+   > (d) A pedestal is
+
+7. > (a) entry into a country to live there.
+   >
+   > (b) Eloquence is
+   >
+   > (c) skill at speaking or writing.
+   >
+   > (d) Affection is
+
+8. > (a) understand it.
+   >
+   > (b) hold it tightly.
+   >
+   > (c) skill at speaking or writing.
+   >
+   > (d) Affection is
+
+9. > (a) ask that person for help.
+   >
+   > (b) To ferry someone is to
+   >
+   > (c) To appeal to someone is to
+   >
+   > (d) give comfort to that person.
+
+10. > (a) A pedestal is
+    >
+    > (b) A contribution is
+    >
+    > (c) a person traveling on foot.
+    >
+    > (d) something that is given.
+
+## 1B  Just the Right Word
+
+**Replace each phrase in bold with a single word (or form of the word) from the word list.**
+
+1. My parents were **people who came to live in this country** from Mexico.
+2. The **boat that carries people across the river** leaves every hour on the hour.
+3. The sundial, together with the **base on which it stands,** costs two hundred dollars.
+4. There was a burst of applause when the artist **removed the covering from** her painting.
+5. The president's **public statement** that the factory would not be closing was welcome news to the townspeople.
+6. A heavy dessert would not **be of interest** to me after that big dinner.
+7. The generosity of the teacher **was one of the things that led** to the success of the students.
+8. The **powerful, moving words** of Abraham Lincoln's "Gettysburg Address" made a deep impression on me.
+9. Their unusual way of dressing makes them **easy to notice** in a crowd.
+10. I have nothing but **fond and tender feelings** for you all.
+
+## 1C  Applying meanings
 
 
 
