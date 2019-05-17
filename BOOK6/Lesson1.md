@@ -102,5 +102,25 @@
 >
 > Dr.Martin Luther King Jr.'s **eloquence** made him a strong leader of the 1960s Civil Rights Movement.
 
+**exhibit**
+
+> *v.* To show in public.
+>
+> Local artists **exhibited** their paintings at the library.
+>
+> *n.* An item or collection of items in a public show.
+>
+> The most interesting **exhibit** in the museum was the dinosaur skeleton.
+>
+> **exhibition** *n.* A large-scale public show.
+>
+> Tickets for the exhibition of early automobiles go on sale next week.
+>
+> ---
+>
+> *Tell your partner what you might like to exhibit on a bulletin board or in a trophy case.*
+
+
+
 
 
