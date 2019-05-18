@@ -33,7 +33,7 @@
 >
 > ---
 >
-> *Appeal to your partner to hand you his or he pencil or pen*.
+> + *Appeal to your partner to hand you his or he pencil or pen*.
 
 ### clasp
 
@@ -57,7 +57,7 @@
 >
 > ---
 >
-> *Tell your partner what you think is the most conspicuous thing in the classroom.*
+> + *Tell your partner what you think is the most conspicuous thing in the classroom.*
 
 ### contribute
 
@@ -79,7 +79,7 @@
 >
 > ---
 >
-> *Share with your partner a cause or a charity you would like to be a contributor to, and discuss how you could contribute.*
+> + *Share with your partner a cause or a charity you would like to be a contributor to, and discuss how you could contribute.*
 
 ### declare
 
@@ -93,7 +93,7 @@
 >
 > ---
 >
-> *Declare to your partner your feelings about your favorite movie.*
+> + *Declare to your partner your feelings about your favorite movie.*
 
 ### eloquent
 
@@ -121,7 +121,7 @@
 >
 > ---
 >
-> *Tell your partner what you might like to exhibit on a bulletin board or in a trophy case.*
+> + *Tell your partner what you might like to exhibit on a bulletin board or in a trophy case.*
 
 ### ferry
 
@@ -141,7 +141,7 @@
 >
 > ---
 >
-> *Discuss with your partner how immigrants make the United States special.*
+> + *Discuss with your partner how immigrants make the United States special.*
 
 ### lofty
 
@@ -159,7 +159,7 @@
 >
 > ---
 >
-> *In a lofty way, describe for your partner how great your singing is.*
+> + *In a lofty way, describe for your partner how great your singing is.*
 
 ### pedestal
 
@@ -376,3 +376,63 @@
 
 1. tall          eloquent         hidden         lofty
 2. understand          contribute         declare          state
+3. show         return          exhibition          appeal
+4. eloquent          moving         conspicuous         tired
+5. contribute          request          return          appeal
+6. fastener          base          poverty          pedestal
+7. affectionate          fond          conspicuous          sad
+8. persecution          anger          grasp          clasp
+9. ferry          poverty          poor          unveil
+10. clasp          immigrant          supply          fastener
+
+## 1E Vocabulary in Context
+
+**Read the passage.**
+
+### Lady Liberty
+
+The Statue of Liberty is a symbol of freedom to people all over the world. Since 1886 it has welcomed **immigrants** who sail into New York harbor to begin a new life in the United States. Like many of then, Lady Liberty, as the statue is **affectionately** known,had to overcome some difficulties before reaching these shores.
+
+The statue was a gift from the people of France to the people of the United States. It was given in honor of the friendship between the two countries and the one-hundredth anniversary of the American Revolution.But before the statue could be put in place, the people of the United States had to provide a **pedestal** for it at a cost of one hundred thousand dollars. That turned out to be no easy task. A fund-raising drive was launched and ran into immediate difficulties. Newspapers across the United States ridiculed the effort. They argued that because the French were sending over the statue, they should be the ones to pay the extra costs involved for the base.
+
+Despite this opposition, the effort to raise the money continued. A forty-foot-high section of the right arm, with the hand clasping the torch of liberty, was sent to the United States. It was displayed at the 1876 Philadelphia **exhibition** marking the on-hundredth birthday of the United States. Visitors paid fifty cents to climb onto the balcony surrounding the torch. Many other fund-raising events were also held. But even after several years, **contributions** fell far short of the total needed. The future of the entire project seemed in doubt. Not until a newspaper **appeal** promised to print donors' names was the necessary money raised.
+
+With the success of the project assured, the rest of the statue was finally shipped from France. It arrived in pieces packed in over two hundred wooden crates. The work of assembling it proceeded without further delay. A public holiday  was declared on October 28, 1886, when the Statue of Liberty was at last **unveiled.** It was one of the largest gatherings ever in New York City. The island where the statue stands is called Liberty Island. It is reached by a short **ferry** ride from lower Manhattan. At just over 305 feet, the statue was the tallest structure in New York City. Though it is now dwarfed by the **lofty** skyscrapers of Manhattan, at the time it was the most **conspicuous** landmark in the city.
+
+In the 1880s, people seeking a better life were flooding into the United States. They arrived at the rate of on million a year. Many of them came from Russia and Eastern Europe; they had been cruelly **persecuted** by their governments and were fleeing to safety. Others were escaping the **poverty** of their native lands in search of a more prosperous life in America.
+
+The museum at the base of the statue contains a bronze tablet placed there in 1903. On it is a poem written twenty years earlier by Emma Lazarus, whose own family had fled Russia. The poem has captured the imagination of the American people and has become forever associated with the Statue of Liberty. It ends with these **eloquent** lines:
+
+Give me your tired, your poor,
+
+Your huddled masses yearning to breathe fee,
+
+The wretched refuse of your teeming shore;
+
+Send these, the homeless, tempest-tost to me,
+
+I lift my lamp beside the golden door!
+
+**Answer each of the following questions with a sentence. If a question does not contain a vocabulary word from the lesson's word list, use one in your answer. Use each word only once.**
+
+1. What is the meaning of lofty as it is used in the passage?
+2. What finally caused Americans to **contribute** the necessary funds?
+3. What was done with the statue's arm in Philadelphia in 1876?
+4. How can you tell that the author has a favorable opinion of Lazarus's poem?
+5. What is the meaning of **appeal** as it is used in the passage?
+6. Why were so many people able to attend the first showing of the statue?
+7. What was the hope of people who came to America to escape the **poverty** of their homelands?
+8. Why did the American people have to raise on hundred thousand dollars?
+9. How is the torch of liberty supported by the statue?
+10. How do visitors reach the Statue of Liberty?
+11. What is the meaning of **unveil** as it is used in the passage?
+12. Why do yo think the United States has been called a nation of **immigrants?**
+13. Why is the statue not such a **conspicuous** landmark as it once was?
+14. Why would **persecuted** people want to come to the United States?
+15. Do you think the people fleeing to the United States for safety in the 1880s felt **affection** for their governments? Why or why not?
+
+## Fun & Fascinating FACTS
+
++ The Latin word for foot is *ped,* and several English words, such as *pedal* (a lever worked by the foot) and *pedestrian* (a person going on foot), come from it. Because a **pedestal** is a base that stands at the foot, or lowest part, of a statue, column, or similar object, you might think that *pedestal* comes directly fro *ped.* Actually it comes from an Italian phrase, *pie di stallo,* which means "a foot (or lowest part) of a stall." Because the Italian word for foot comes from *ped,* it's correct to say that the English word *pedestal* also comes from it, but in a roundabout manner. 
++ An **immigrant** is a person who enters a country intending to live there. An *emigrant* is a person who leaves one country to settle in another. In the late nineteenth and early twentieth centuries, many people *emigrated* from Europe and arrived in the United States as *immigrants.*
++ **Persecute** and *prosecute* are similar-sounding words that are sometimes confused even though they have quite separate meanings. To *persecute* someone is to make that person suffer because of political, religious, or other beliefs or characteristics. To *Prosecute* someone is to bring that person to trial for criminal acts.
