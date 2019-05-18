@@ -289,7 +289,90 @@
 
 ## 1C  Applying meanings
 
+**Circle the letter or letters next to each correct answer. There may be more than one correct answer.**
 
+1. Which of the following could be **unveiled?**
 
+   > (a) a statue
+   >
+   > (b) a cloud
+   >
+   > (a) a painting
+   >
+   > (d) a plan
 
+2. Which of the following can be **declared?**
 
+   > (a) a winner
+   >
+   > (b) one's friends
+   >
+   > (c) one's love
+   >
+   > (d) a holiday
+
+3. Which of the following can be **contributed?**
+
+   > (a) money
+   >
+   > (b) time
+   >
+   > (c) clothing
+   >
+   > (d) space
+
+4. Which of the following could be **ferried?**
+
+   > (a) hopes
+   >
+   > (b) fears
+   >
+   > (c) people
+   >
+   > (d) cars
+
+5. For which of the following might someone be subjected to **persecution?**
+
+   > (a) driving too fast
+   >
+   > (b) having political views
+   >
+   > (c) breaking into someone's home
+   >
+   > (d) practicing a religion
+
+6. Which of the following would be **conspicuous?**
+
+   > (a) a lighthouse on a cliff
+   >
+   > (b) a pebble on the beach
+   >
+   > (c) a billboard by the roadside
+   >
+   > (d) a purple house
+
+7. Which of the following could be **exhibited?**
+
+   > (a) pottery
+   >
+   > (b) days
+   >
+   > (c) uncertainty
+   >
+   > (d) a purple house
+
+8. Which of the following could you say to give someone a clue that you are an **immigrant?**
+
+   > (a) "Math is my favorite subject."
+   >
+   > (b) "I have a dog."
+   >
+   > (c) "I plan to live in a new country."
+   >
+   > (d) "I have left my home country."
+
+## 1D Word Study: Synonyms
+
+**Circle the two synonyms in each group of four words.**
+
+1.  
