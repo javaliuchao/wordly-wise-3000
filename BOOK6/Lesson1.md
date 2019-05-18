@@ -4,7 +4,7 @@
 
 **Study the definitions of the words. Then do the exercises that follow.**
 
-**affection**
+### affection
 
 > n. A fond or tender feeling.
 >
@@ -14,10 +14,9 @@
 >
 > My cousin took my hand and gave it an affectionate squeeze.
 
-**appeal** 
+### appeal
 
-> *v.* 1. To make an earnest request; to ask.
->
+> *v.*  1. To make an earnest request; to ask.
 > Three students **appealed** for more time to finish the work.
 >
 > 2. To be of interest to; to be attractive to.
@@ -36,7 +35,7 @@
 >
 > *Appeal to your partner to hand you his or he pencil or pen*.
 
-**clasp**
+### clasp
 
 > *v.* To grasp or hold tightly.
 >
@@ -50,7 +49,7 @@
 >
 > The necklace has a **clasp** in the shape of a snake biting its tail.
 
-**conspicuous**
+### conspicuous
 
 > *adj.* Easily or plainly seen.
 >
@@ -60,7 +59,7 @@
 >
 > *Tell your partner what you think is the most conspicuous thing in the classroom.*
 
-**contribute**
+### contribute
 
 > *v.* 1. To give along with others who are giving.
 >
@@ -82,7 +81,7 @@
 >
 > *Share with your partner a cause or a charity you would like to be a contributor to, and discuss how you could contribute.*
 
-**declare**
+### declare
 
 > *v.* To make known; to state openly.
 >
@@ -96,7 +95,7 @@
 >
 > *Declare to your partner your feelings about your favorite movie.*
 
-**eloquent**
+### eloquent
 
 > *adj.* Skilled at speaking or writing; having the power to move people.
 >
@@ -106,7 +105,7 @@
 >
 > Dr.Martin Luther King Jr.'s **eloquence** made him a strong leader of the 1960s Civil Rights Movement.
 
-**exhibit**
+### exhibit
 
 > *v.* To show in public.
 >
@@ -124,7 +123,7 @@
 >
 > *Tell your partner what you might like to exhibit on a bulletin board or in a trophy case.*
 
-**ferry**
+### ferry
 
 > *n.* A boat that carries people and goods back and forth across a stretch of water.
 >
@@ -134,7 +133,7 @@
 >
 > The boat owner who **ferried** us across the lake would not accept any payment.
 
-**immigrant**
+### immigrant
 
 > *n.* A person who comes into a country to live there.
 >
@@ -144,7 +143,7 @@
 >
 > *Discuss with your partner how immigrants make the United States special.*
 
-**lofty**
+### lofty
 
 > *adj.* 1. Very tall or high.
 >
@@ -162,7 +161,7 @@
 >
 > *In a lofty way, describe for your partner how great your singing is.*
 
-**pedestal**
+### pedestal
 
 > *n.* A base or support on which something stands.
 >
@@ -172,13 +171,13 @@
 >
 > Hitler's **persecution** of the Jewish people led to the murder of millions of innocent people.
 
-**poverty**
+### poverty
 
 >*n.* The state of being poor.
 >
 >The food stamp program was started to help feed families living in **poverty.**
 
-**unveil**
+### unveil
 
 > *v.* 1. To remove a covering from.
 >
@@ -375,4 +374,5 @@
 
 **Circle the two synonyms in each group of four words.**
 
-1.  
+1. tall          eloquent         hidden         lofty
+2. understand          contribute         declare          state
